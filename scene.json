@@ -1,0 +1,66 @@
+{
+  "contact": {
+    "name": "Peter#ffd4",
+    "email": ""
+  },
+  "default": {
+    "display": {
+      "title": "interactive-text",
+      "favicon": "favicon_asset"
+    },
+    "owner": "",
+    "contact": {
+      "name": "Peter#ffd4",
+      "email": ""
+    },
+    "main": "bin/game.js",
+    "tags": [],
+    "scene": {
+      "parcels": [
+        "0,0"
+      ],
+      "base": "0,0"
+    },
+    "communications": {
+      "type": "webrtc",
+      "signalling": "https://signalling-01.decentraland.org"
+    },
+    "policy": {
+      "contentRating": "E",
+      "fly": true,
+      "voiceEnabled": true,
+      "blacklist": [],
+      "teleportPosition": ""
+    }
+  },
+  "display": {
+    "title": "Botto CG#ONE",
+    "favicon": "favicon_asset",
+    "description": "",
+    "navmapThumbnail": "scene-thumbnail.png"
+  },
+  "main": "bin/game.js",
+  "owner": "",
+  "scene": {
+    "parcels": [
+      "0,0",
+      "1,0"
+    ],
+    "base": "0,0"
+  },
+  "tags": [],
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "1f656491-8df3-4d4f-aa24-612abd673ac8",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 2,
+      "cols": 1
+    }
+  }
+}
